@@ -25,8 +25,8 @@ a[href*="discord.com/oauth2/authorize"],
 a[href*="premium"],
 .add-to-discord,
 .go-premium {
-    background-color: rgba(0, 0, 255, 0.7) !important; /* solid blue with some transparency */
-    color: #FFFFFF !important;
+    background-color: rgba(0, 0, 255, 1) !important; /* solid blue with some transparency */
+    color: #0057ff !important;
     backdrop-filter: blur(8px);
     border: 1px solid rgba(255, 255, 255, 0.3);
 }
